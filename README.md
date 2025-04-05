@@ -1,6 +1,10 @@
 # Brazilian-E-Commerce-Public-Dataset-by-Olist-Analysis-Dashboard
 Report Summary
 
+Data Source
+
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/code
+
 Overview 
 
 This Power BI report provides a comprehensive analysis of Brazilian e-commerce sales, focusing on customer purchasing behavior, order trends, and financial insights. It helps stakeholders understand sales distribution across different categories, time periods, and payment methods while offering interactive filtering options for deeper exploration.
